@@ -143,7 +143,7 @@ yt-live-chat-text-message-renderer #author-name.owner::before {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("data:image/png;base64, "); /* ganti dengan base64 atau link gambar background owner */
+  background-image: url("data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAASwAAAA8CAYAAADc3IdaAAAACXBIWXMAAC4jAAAuIwF4pT92AAACwklEQVR4nO3av0vUcRzH8ef3zsEUa1FOESGaXRpOh6whjqOyOW1XJG2opYiIxmhsOLP6A0poM4yOg8BsyBwC/4BAEPRwaXCK89vQ+eMMoenONz4f0/H9cvCanny/n7skTVMkKYJMqwdI0v9q2/tQTAr7F8tpZQSYAS4DvUC26csknUY1YBP4ApSKSWF570Y5rRwEq36hDXhRXa9Ov3v2lpXFb2xvbLNb223uZEmnUiabyXb3d/cP3RgeH390e7ycVmaBe8Wk8Bv+fSV8ufppdXpycIIPcwtU16vGSlLT7NZ2qa5X+TC3wOTgBKufVqeB2b37yaFD90ubPzeX71ycYufXTkvGStJhnec6mfvxitz53hHg6+EnrJn55++MlaQTY+fXDvPP5wHuQuMr4dXvH1daMkqSjrOy+A3gCjQGK7e9sd2SQZJ0nHqXcnDk0N0DdkknTb1LWfCPo5ICMViSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksIwWJLCMFiSwjBYksJoCFYma78knSz1LtWgMVhb3f3dLRkkScepd2kLGoP1OX99qCWDJOk4QzeGAZagMVilWw/GaO9sb8koSTqq42wHYw/HAEpwKFjFpLDcd6Gv9OT9U850dbRqnyQBcKarg8fzT8id7y0Vk8Iy/Psr4f38tfzs67U3jE7dpGegx4N4SU2TyWboGehhdOomr9fekL+WnwXu791P0jQFoJgU9r9UTisjwAxwBcgB2aaulnRa1fh7wL4E7D9ZAZTTykGwJOmk+wM0/ZRPNP79VAAAAABJRU5ErkJggg=="); /* ganti dengan base64 atau link gambar background owner */
   background-repeat: no-repeat;
   background-position: center;
   z-index: -1;
